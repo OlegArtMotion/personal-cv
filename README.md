@@ -23,7 +23,6 @@ How to Use:
 Clone the repository: 
 
 git clone https://github.com/OlegArtMotion/personal-cv.git
-git clone git@github.com:OlegArtMotion/personal-cv.git
 
 Open index.html in your preferred web browser.
 Feel free to explore, provide feedback, and connect with me for further discussions or collaboration opportunities.
